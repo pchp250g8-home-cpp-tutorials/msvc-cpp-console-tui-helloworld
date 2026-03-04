@@ -1,5 +1,14 @@
 HelloWorld. C++ Tutorials. Microsoft Visual Studio IDE. Console Application. Advanced Features. PDCurses Library. 
 
+The program does the following:
+1. Loads the PDCurses library.
+2. Creates a standard terminal size window (80 columns, 25 rows).
+3. Clears the created window.
+4. Displays the first "Hello, world" message in column 10 and row 10.
+5. Displays the second inscription "PDCurses Library" in column 10 and row 11.
+6. Waiting for a key to be pressed.
+7. Unloads the PDCurses library and exits.
+
 HelloWorld. Занятия по C++. ИС Microsoft Visual Studio. Консольное приложение. Расширенные возможности. Библиотека. PDCurses. 
 
 Программа делает следующее:
